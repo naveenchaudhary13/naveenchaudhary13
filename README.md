@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer working with **Python**
 
 
 ## 👀 **Profile Views**
-<p align="left"> <img src="https://profile-counter.glitch.me/king143nd/count.svg" alt="king143nd" /> </p>
+<p align="left"> <img src="https://profile-counter.glitch.me/naveenchaudhary13/count.svg" alt="naveenchaudhary13" /> </p>
 
 ## 🚀 **About Me**
 - 🌱 Currently exploring **Generative AI**, **LLMs**, and **Data Science pipelines**.
@@ -46,10 +46,10 @@ Welcome to my GitHub profile! I'm a passionate developer working with **Python**
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=king143nd&show_icons=true&theme=radical" alt="King143nd's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=naveenchaudhary13&show_icons=true&theme=radical" alt="naveenchaudhary13's GitHub stats" />
 </td>
 <td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=king143nd&theme=radical" alt="King143nd's GitHub streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenchaudhary13&theme=radical" alt="naveenchaudhary13's GitHub streak stats" />
 </td>
 </tr>
 </table>
@@ -57,10 +57,10 @@ Welcome to my GitHub profile! I'm a passionate developer working with **Python**
 <table>
 <tr>
 <td>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=king143nd&layout=compact&border_radius=0&theme=dark" alt="king143nd" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenchaudhary13&layout=compact&border_radius=0&theme=dark" alt="naveenchaudhary13" />
 </td>
 <td>
-<img src="https://github-profile-trophy.vercel.app/?username=king143nd&theme=radical&no-frame=true&column=4" alt="King143nd's GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=naveenchaudhary13&theme=radical&no-frame=true&column=4" alt="naveenchaudhary13's GitHub Trophies" />
 </td>
 </tr>
 </table>
@@ -69,15 +69,15 @@ Welcome to my GitHub profile! I'm a passionate developer working with **Python**
 
 
 ## 🌟 **Featured Projects**
-### 📱 [**FriendZone**](https://king143nd.pythonanywhere.com/)  
+### 📱 [**FriendZone**](https://naveenchaudhary13.pythonanywhere.com/)  
 👥 **FriendZone** is a vibrant social networking platform designed to connect people, share updates, and build communities.  
 ✨ Features include:  
 - 🖼️ User profiles  
 - 🤝 Friend requests  
 - 📰 Activity feeds  
 
-🔗 **[🌐 Live Demo](https://king143nd.pythonanywhere.com/)**  
-💻 **[📂 GitHub Repository](https://github.com/KING143ND/FriendZone)**   
+🔗 **[🌐 Live Demo](https://naveenchaudhary13.pythonanywhere.com/)**  
+💻 **[📂 GitHub Repository](https://github.com/naveenchaudhary13/FriendZone)**   
 
 ---
  ### 🛒 [**ApnaMarket**](https://apnamarket143.vercel.app/)  
@@ -88,7 +88,7 @@ Welcome to my GitHub profile! I'm a passionate developer working with **Python**
 - 💳 Secure checkout  
 
 🔗 **[🌍 Live Demo](https://apnamarket143.vercel.app/)**  
-💻 **[📂 GitHub Repository](https://github.com/KING143ND/ApnaMarket.git)**  
+💻 **[📂 GitHub Repository](https://github.com/naveenchaudhary13/ApnaMarket.git)**  
 
 ---
 ### 🌍 [**AddaTravelling**](https://adda-travelling.vercel.app/)  
@@ -99,7 +99,7 @@ Welcome to my GitHub profile! I'm a passionate developer working with **Python**
 - 🛒 Seamless booking experience  
 
 🔗 **[🌐 Live Demo](https://adda-travelling.vercel.app/)**  
-💻 **[📂 GitHub Repository](https://github.com/KING143ND/AddaTravelling.git)**  
+💻 **[📂 GitHub Repository](https://github.com/naveenchaudhary13/AddaTravelling.git)**  
 
 ---
 ### ✨ [**Magic-Text-Enhancer**](https://magic-text-enhancer.vercel.app/)  
@@ -110,13 +110,13 @@ Welcome to my GitHub profile! I'm a passionate developer working with **Python**
 - 🚀 Fast and user-friendly interface  
 
 🔗 **[🌐 Live Demo](https://magic-text-enhancer.vercel.app/)**  
-💻 **[📂 GitHub Repository](https://github.com/KING143ND/Magic-Text-Enhancer.git)**  
+💻 **[📂 GitHub Repository](https://github.com/naveenchaudhary13/Magic-Text-Enhancer.git)**  
 
 ---
 
 ## 🌐 **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveen-chaudhary-30410a227)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KING143ND)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naveenchaudhary13)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kingndnaveen)
 
 ---
