@@ -69,36 +69,36 @@ Welcome to my GitHub profile! I'm a passionate developer working with **Python**
 
 
 ## 🌟 **Featured Projects**
-### 📱 [**FriendZone**](https://naveenchaudhary13.pythonanywhere.com/)  
+### 📱 [**FriendZone**](https://friendzone.mooo.com/)  
 👥 **FriendZone** is a vibrant social networking platform designed to connect people, share updates, and build communities.  
 ✨ Features include:  
 - 🖼️ User profiles  
 - 🤝 Friend requests  
 - 📰 Activity feeds  
 
-🔗 **[🌐 Live Demo](https://naveenchaudhary13.pythonanywhere.com/)**  
+🔗 **[🌐 Live Demo](https://friendzone.mooo.com/)**  
 💻 **[📂 GitHub Repository](https://github.com/naveenchaudhary13/FriendZone)**   
 
 ---
- ### 🛒 [**ApnaMarket**](https://apnamarket143.vercel.app/)  
+ ### 🛒 [**ApnaMarket**](https://apnamarket.mooo.com/)  
 🛍️ **ApnaMarket** is an e-commerce platform where users can explore, shop, and manage their carts effortlessly.  
 ✨ Features include:  
 - 🛒 Intuitive shopping experience  
 - 🛠️ Product management and search  
 - 💳 Secure checkout  
 
-🔗 **[🌍 Live Demo](https://apnamarket143.vercel.app/)**  
+🔗 **[🌍 Live Demo](https://apnamarket.mooo.com/)**  
 💻 **[📂 GitHub Repository](https://github.com/naveenchaudhary13/ApnaMarket.git)**  
 
 ---
-### 🌍 [**AddaTravelling**](https://adda-travelling.vercel.app/)  
+### 🌍 [**AddaTravelling**](https://addatravelling.mooo.com/)  
 ✈️ **AddaTravelling** is a travel booking platform that makes planning trips easy and hassle-free.  
 ✨ Features include:  
 - 🗺️ Destination exploration  
 - 📅 Trip scheduling  
 - 🛒 Seamless booking experience  
 
-🔗 **[🌐 Live Demo](https://adda-travelling.vercel.app/)**  
+🔗 **[🌐 Live Demo](https://addatravelling.mooo.com/)**  
 💻 **[📂 GitHub Repository](https://github.com/naveenchaudhary13/AddaTravelling.git)**  
 
 ---
